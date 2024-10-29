@@ -13,7 +13,7 @@ I am a dedicated Next.js Developer with over 2.5 years of experience in designin
 
 ### 🚀 My Projects
 
-- [Orebi](https://link-to-your-orebi-project.com) - An eCommerce web app built with Next.js, featuring a responsive design and scalable architecture.
+- [Orebi](https://orebi10.vercel.app) - An eCommerce web app built with Next.js, featuring a responsive design and scalable architecture.
 - [Project Name 2](https://link-to-your-project2.com) - Brief description of your project.
 - [Project Name 3](https://link-to-your-project3.com) - Brief description of your project.
 
