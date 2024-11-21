@@ -27,6 +27,12 @@ I am committed to delivering high-quality, interactive user experiences. My prob
 
 Feel free to explore my portfolio to view examples of my work: [arakash.vercel.app](https://arakash.vercel.app/).
 
+## 🌱 What I'm Learning  
+
+- Advanced **Next.js** features and server-side rendering.  
+- Exploring **TypeScript** to improve code quality and reliability.  
+- Enhancing skills in **performance optimization** for web applications.  
+
 ### 📫 Contact Me
 
 For inquiries, please reach out to me at: [arakash.developer@gmail.com](mailto:arakash.developer@gmail.com).
