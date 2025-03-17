@@ -4,7 +4,7 @@
 
 I am a dedicated Next.js Developer with over 2.5 years of experience in designing and implementing fast, responsive, and scalable web applications. I specialize in creating innovative and efficient web solutions tailored to meet client needs. 
 
-//🔭 Currently part of [Havetic](https://havetic.com/), a leading web development company.
+
 
 ### 💼 Skills
 
