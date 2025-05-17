@@ -1,6 +1,5 @@
 # Hi there, I'm Atiqur Rahman Akash 👋
-
-## Next.js Developer | Travel Enthusiast 🌍 | Programming Aficionado 💻
+**MERN Stack Web Developer** | **Travel Enthusiast 🌍** | **Programming Aficionado 💻**
 I'm a passionate and results-driven **MERN Stack Developer** with over **2.5 years** of experience building fast, responsive, and scalable full-stack web applications. I specialize in designing end-to-end solutions using modern technologies to solve real-world problems.
 
 ### 💼 Skills
