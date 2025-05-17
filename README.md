@@ -31,19 +31,6 @@
 
 I'm a passionate and results-driven **MERN Stack Developer** with over **2.5 years** of experience building fast, responsive, and scalable full-stack web applications. I specialize in designing end-to-end solutions using modern technologies to solve real-world problems.
 
-### 💼 Skills
-**Front-End:**  
-- HTML, CSS, Bootstrap, Tailwind CSS  
-- JavaScript, jQuery, React.js, Redux, Next.js  
-**Back-End:**  
-- Node.js, Express.js, MongoDB, Mongoose  
-- RESTful APIs, JWT Authentication, MVC Architecture  
-**Other Tools & Skills:**  
-- Animation: GSAP  
-- UI/UX Design: Figma, Adobe XD  
-- Version Control: Git & GitHub  
-- Deployment: Vercel, Netlify, xcloud,Render  
-
 ### 🚀 My Projects
 
 - [Orebi](https://orebi10.vercel.app) - An eCommerce web app built with Next.js, featuring a responsive design and scalable architecture.
