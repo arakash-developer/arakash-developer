@@ -2,7 +2,7 @@
 
 ## Next.js Developer | Travel Enthusiast 🌍 | Programming Aficionado 💻
 
-I am a dedicated Next.js Developer with over 2.5 years of experience in designing and implementing fast, responsive, and scalable web applications. I specialize in creating innovative and efficient web solutions tailored to meet client needs. 
+I'm a passionate and results-driven **MERN Stack Developer** with over **2.5 years** of experience building fast, responsive, and scalable full-stack web applications. I specialize in designing end-to-end solutions using modern technologies to solve real-world problems.
 
 
 
