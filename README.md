@@ -27,7 +27,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 # Hi there, I'm Atiqur Rahman Akash 👋
-###MERN Stack Web Developer** | **Travel Enthusiast 🌍** | **Programming Aficionado 💻
+**MERN Stack Web Developer** | 🌍 **Travel Enthusiast** | 💻 **Programming Aficionado**
 
 I'm a passionate and results-driven **MERN Stack Developer** with over **2.5 years** of experience building fast, responsive, and scalable full-stack web applications. I specialize in designing end-to-end solutions using modern technologies to solve real-world problems.
 
