@@ -8,10 +8,19 @@ I am a dedicated Next.js Developer with over 2.5 years of experience in designin
 
 ### 💼 Skills
 
-- **Front-End Technologies:** HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery, React.js, Redux, Next.js
-- **Animation:** GSAP
-- **UI/UX Design:** Figma, Adobe XD
-- **Version Control:** GitHub
+**Front-End:**  
+- HTML, CSS, Bootstrap, Tailwind CSS  
+- JavaScript, jQuery, React.js, Redux, Next.js  
+
+**Back-End:**  
+- Node.js, Express.js, MongoDB, Mongoose  
+- RESTful APIs, JWT Authentication, MVC Architecture  
+
+**Other Tools & Skills:**  
+- Animation: GSAP  
+- UI/UX Design: Figma, Adobe XD  
+- Version Control: Git & GitHub  
+- Deployment: Vercel, Netlify, Heroku  
 
 ### 🚀 My Projects
 
