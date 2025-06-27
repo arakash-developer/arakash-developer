@@ -26,15 +26,23 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-# Hi there, I'm Atiqur Rahman Akash 👋
+# Hi there, I'm Atiqur Rahman Akash 👋  
 **MERN Stack Web Developer** | 🌍 **Travel Enthusiast** | 💻 **Programming Aficionado**
 
 I'm a passionate and results-driven **MERN Stack Developer** with over **2.5 years** of experience building fast, responsive, and scalable full-stack web applications. I specialize in designing end-to-end solutions using modern technologies to solve real-world problems.
 
+### 💼 Experience
+
+- **Full-Stack Developer at Havetic IT**  
+  Built robust full-stack applications using the MERN stack. Focused on delivering scalable, maintainable code and collaborating with teams to implement client-specific solutions.
+
+- **Frontend Developer at Blinto LLC (Present)**  
+  Specializing in frontend development with React and Next.js. Working on modern, conversion-focused UIs and performance-optimized web interfaces for clients worldwide.
+
 ### 🚀 My Projects
 
-- [Orebi](https://orebi10.vercel.app) - An eCommerce web app built with Next.js, featuring a responsive design and scalable architecture.
-- [Orgafe](https://orgafe-basicvercelapp.vercel.app/) -  An eCommerce web app built with static, featuring a responsive design and scalable architecture.
+- [Orebi](https://orebi10.vercel.app) - An eCommerce web app built with Next.js, featuring a responsive design and scalable architecture.  
+- [Orgafe](https://orgafe-basicvercelapp.vercel.app/) -  An eCommerce web app built with static, featuring a responsive design and scalable architecture.  
 - [Project Name 3](https://link-to-your-project3.com) - Brief description of your project.
 
 ### 📈 My Contributions
