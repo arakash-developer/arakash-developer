@@ -32,12 +32,11 @@
 I'm a passionate and results-driven **MERN Stack Developer** with over **2.5 years** of experience building fast, responsive, and scalable full-stack web applications. I specialize in designing end-to-end solutions using modern technologies to solve real-world problems.
 
 ### 💼 Experience
+- **Frontend Developer at Blinto LLC (Present)**  
+  Specializing in frontend development with React and Next.js. Working on modern, conversion-focused UIs and performance-optimized web interfaces for clients worldwide.
 
 - **Full-Stack Developer at Havetic IT**  
   Built robust full-stack applications using the MERN stack. Focused on delivering scalable, maintainable code and collaborating with teams to implement client-specific solutions.
-
-- **Frontend Developer at Blinto LLC (Present)**  
-  Specializing in frontend development with React and Next.js. Working on modern, conversion-focused UIs and performance-optimized web interfaces for clients worldwide.
 
 ### 🚀 My Projects
 
