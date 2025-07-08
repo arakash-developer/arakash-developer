@@ -35,7 +35,7 @@ I'm a passionate and results-driven **FULL Stack Developer** with over **2.5 yea
 - **Frontend Developer at Blinto LLC (Present)**  
   Specializing in frontend development with React and Next.js. Working on modern, conversion-focused UIs and performance-optimized web interfaces for clients worldwide.
 
-- **Full-Stack Developer at Havetic IT**  
+- **Full-Stack Developer at Havetic IT (2023-2024)**  
   Built robust full-stack applications using the FULL stack. Focused on delivering scalable, maintainable code and collaborating with teams to implement client-specific solutions.
 
 ### 🚀 My Projects
