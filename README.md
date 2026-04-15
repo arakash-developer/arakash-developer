@@ -32,7 +32,10 @@
 I'm a passionate and results-driven **FULL Stack Developer** with over **2.5 years** of experience building fast, responsive, and scalable full-stack web applications. I specialize in designing end-to-end solutions using modern technologies to solve real-world problems.
 
 ### 💼 Experience
-- **Frontend Developer at Blinto LLC (Present)**  
+- **Software Developer (Full-Stack) at Norvo (Remote) Australia (Present)**  
+  Developed and maintained scalable full-stack applications, including large-scale SaaS platforms. Worked across frontend and backend to deliver high-performance, user-friendly solutions.
+  
+- **Frontend Developer at Blinto LLC (2024-2025)**  
   Specializing in frontend development with React and Next.js. Working on modern, conversion-focused UIs and performance-optimized web interfaces for clients worldwide.
 
 - **Full-Stack Developer at Havetic IT (2023-2024)**  
