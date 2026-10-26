@@ -41,11 +41,7 @@ I'm a passionate and results-driven **FULL Stack Developer** with over **2.5 yea
 - **Full-Stack Developer at Havetic IT (2023-2024)**  
   Built robust full-stack applications using the FULL stack. Focused on delivering scalable, maintainable code and collaborating with teams to implement client-specific solutions.
 
-### 🚀 My Projects
 
-- [Orebi](https://orebi10.vercel.app) - An eCommerce web app built with Next.js, featuring a responsive design and scalable architecture.  
-- [Orgafe](https://orgafe-basicvercelapp.vercel.app/) -  An eCommerce web app built with static, featuring a responsive design and scalable architecture.  
-- [Project Name 3](https://link-to-your-project3.com) - Brief description of your project.
 
 ### 📈 My Contributions
 
